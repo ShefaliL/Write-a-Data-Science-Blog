@@ -1,4 +1,6 @@
-# Write-a-Data-Science-Blog
+# Write-a-Data-Science-Blog - https://medium.com/@shefaliluley/write-a-data-science-blog-a48374740f98
+
+
 
 #### PERFORMING DATA ANALYSIS ON THE STACK OVERFLOW SURVEY OF 2017 AND 2018
 
@@ -18,4 +20,6 @@ In this notebook, I'll look at the Stack Overflow findings from both 2017 and 2
 1) In the 2017 and 2018, which programming languages are most commonly used and how do they vary in each year?  
 2) How does the salary vary based on country, experience and company type in 2018?  
 3) Is stack overflow a useful platform for programmers based on the survey?  
+
+
 
