@@ -22,6 +22,6 @@ survey-results-schema_2018:Schema of Stackoverflow's 2018 Annual Developer Surve
 The main findings of the code can be found at the post available [here](https://medium.com/@shefaliluley/write-a-data-science-blog-a48374740f98) 
 
 ## Licensing, Authors, Acknowledgements
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available[here](https://insights.stackoverflow.com/survey).
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
 
 
